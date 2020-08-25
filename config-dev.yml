@@ -1,2 +1,5 @@
 config:
   info: config-dev version 5
+
+server:
+  port: 8888
